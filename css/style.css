@@ -109,14 +109,15 @@
 .one img{
     border-radius: 50%;
 }
-button{
+.one1{
     
     color: white;
     background-color: orange;
     border: 1px solid orange;
     position: absolute;
-    top: 40px;
+    top: 5px;
     left: 0;
+    padding: 5px 10px;
 }
 .all .one4 .fa-heart{
     color: white;
@@ -127,7 +128,7 @@ button{
     line-height: 33px;
     text-align: center;
     position: absolute;
-    top: 36px;
+    top: 26px;
     right: 13px;
 }
 /* .fa-heart{
